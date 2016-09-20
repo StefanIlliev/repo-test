@@ -1,9 +1,6 @@
-<<<<<<< HEAD
 Update with Tortoise 
 Dots here...
 Turstoise...
 hell yeah...
-=======
 Update with Bash 
 Update with Tortoise 
->>>>>>> 9e18ad966051d9b15477b2d0f2f3235cabfaaacf
